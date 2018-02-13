@@ -1,0 +1,10 @@
+
+Library/
+obj/
+ProjectSettings/
+UnityPackageManager/
+
+
+*.csproj
+*.sln
+*.userprefs
