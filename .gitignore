@@ -5,6 +5,7 @@ ProjectSettings/
 UnityPackageManager/
 Temp/
 .vs/
+Builds/
 
 
 *.csproj
