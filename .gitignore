@@ -3,8 +3,11 @@ Library/
 obj/
 ProjectSettings/
 UnityPackageManager/
+Temp/
+.vs/
 
 
 *.csproj
 *.sln
 *.userprefs
+*.meta
